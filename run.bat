@@ -1,0 +1,2 @@
+python NeuralNetworkEncryption.py
+pause
